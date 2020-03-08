@@ -1,3 +1,3 @@
 # P2P
-node app.js
-npm start
+Pour lancer le serveur : node app.js 
+Pour lancer le client : npm start
